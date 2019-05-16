@@ -10,14 +10,11 @@ public class PrimeNumbers {
             throw new InputMismatchException();
         }
 
-        boolean flag = false;
-
         for (int i = 2; i <= n / 2; ++i) {
             if (n % 2 == 0) {
-                flag = true;
-                break;
+                return false;
             }
         }
-        return !flag;  //
+        return true;
     }
 }
