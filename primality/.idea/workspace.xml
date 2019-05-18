@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0c0eac-f64f-4d68-bcd2-7a28d7ac9d7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../src/org/michaelkrause/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/org/michaelkrause/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11520" />
+    <option name="x" value="4480" />
     <option name="y" value="-4" />
     <option name="width" value="2560" />
     <option name="height" value="1444" />
@@ -87,31 +87,12 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="primality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="primality" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="primality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="primality" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="primality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="primality" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="/snap/intellij-idea-community/current/lib/junit-4.12.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -175,7 +156,7 @@
   <component name="ToolWindowManager">
     <frame x="4480" y="-4" width="2560" height="1444" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18297534" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18297534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -186,7 +167,7 @@
       <window_info anchor="bottom" id="Messages" sideWeight="0.4984089" weight="0.26215807" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960223" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960223" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
