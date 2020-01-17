@@ -1,5 +1,3 @@
-package org.michaelkrause;
-
 import java.util.InputMismatchException;
 
 public class PrimeNumbers {

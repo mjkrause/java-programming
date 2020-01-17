@@ -1,5 +1,3 @@
-package org.michaelkrause;
-
 import org.junit.Test;
 import java.util.InputMismatchException;
 import static org.junit.Assert.assertFalse;
