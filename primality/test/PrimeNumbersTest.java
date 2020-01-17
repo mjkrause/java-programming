@@ -6,19 +6,19 @@ import static org.junit.Assert.assertTrue;
 public class PrimeNumbersTest {
 
     @Test
-    public void TestPrimeNumber_true() {
+    public void testPrimeNumber_true() {
         boolean pred = PrimeNumbers.isPrime(3);
         assertTrue(pred);
     }
 
     @Test
-    public void TestPrimeNumber_false() {
+    public void testPrimeNumber_false() {
         boolean pred = PrimeNumbers.isPrime(4);
         assertFalse(pred);
     }
 
     @Test(expected = InputMismatchException.class)
-    public void TestPrimeNumber_wrong_input() {
+    public void testPrimeNumber_wrong_input() {
         PrimeNumbers.isPrime(-3);
     }
 
